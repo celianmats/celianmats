@@ -3,10 +3,12 @@
   <!-- Header Banner / Typing Animation -->
   <a href="https://github.com/celianmats">
   <br/>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000&center=true&vCenter=true&width=500&lines=Bonjour%2C+moi+c'est+C%C3%A9lian+%21+%F0%9F%91%8B;Frontend+Developer;Bienvenue+sur+mon+profil+GitHub+%E2%9C%A8" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Bonjour%2C+moi+c'est+C%C3%A9lian+%21+%F0%9F%91%8B;Frontend+Developer;Bienvenue+sur+mon+profil+GitHub+%E2%9C%A8" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Bonjour%2C+moi+c'est+C%C3%A9lian+%21+%F0%9F%91%8B;Frontend+Developer;Bienvenue+sur+mon+profil+GitHub+%E2%9C%A8" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Bonjour%2C+moi+c'est+C%C3%A9lian+%21+%F0%9F%91%8B;Frontend+Developer;Bienvenue+sur+mon+profil+GitHub+%E2%9C%A8" alt="Typing SVG" />
+    </picture>
   </a>
-
-
 
 </div>
 
